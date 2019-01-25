@@ -1,2 +1,2 @@
 # PythonLearning
-python基础
+Datawhale一周python基础集训
